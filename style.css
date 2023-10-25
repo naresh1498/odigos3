@@ -1,0 +1,81 @@
+.bg{
+    height: 100vh;
+    background-image: url("pic1.jpeg");
+    background-size: cover;
+}
+.trans-50{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(36, 34, 34, 0.708);
+}
+.bg label{
+color:white;
+}
+.bg input{
+    background-color: transparent;
+}
+.bg input[type="submit"]{
+    background-color: red;
+    color: white;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.bg h1{
+    font-weight: 800;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#faq .accordion-button{
+background-color:rgb(122, 21, 21);
+color: white;
+}
+.bg1 input[type="submit"]{
+    background-color: red;
+    color: white;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.bg1 label{
+    color:white;
+    }
+    .bg1 input{
+        background-color: transparent;
+    }
+    .txt3 h1{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+    }
+    nav .nav-link{
+        color: rgb(118, 28, 8);
+        padding: 8px,25px;
+    }
+    nav .nav-link:hover{
+        color:black;
+        border: 1px solid black;
+    }
+    header{
+        border-bottom: 1px solid white;
+    }
+    .txt3 input{
+        width:80%;
+        margin-top: 30px;
+    }
+    section{
+        border-bottom: 1px solid white;
+    }
+    .footpanel{
+padding: 50px;
+background-color: black;
+color: white;
+    }
+    .ftpnl2,.ftpnl3,.ftpnl4,.ftpnl5{
+        margin: 20px;
+    }
